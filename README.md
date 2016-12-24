@@ -1,0 +1,2 @@
+# AdbUpload
+这是一个使用adb命令拷贝电脑文件到安卓设备SD卡上的python小程序

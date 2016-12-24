@@ -1,2 +1,9 @@
 # AdbUpload
+
 这是一个使用adb命令拷贝电脑文件到安卓设备SD卡上的python小程序
+
+adbtest程序是用于临时测试adb命令是够可以运行的程序
+
+AdbUpload是用于往单个设备上传数据的程序
+
+UploadJWTs是用于同时往多个设备上传数据的程序
